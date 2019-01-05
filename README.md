@@ -1,4 +1,4 @@
-# GA-image_processing
+# image_processing
 Using genetic algorithms to converge to an input image with a given number of generations and population
 
 For use:
