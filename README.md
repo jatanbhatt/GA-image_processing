@@ -10,4 +10,3 @@ make mcmaster
   -> prodcues mcmaster2.ppm from mcmaster.ppm
 
 See usage for evolving custom images
-![Alt text](me.jpg?raw=true "Title")
